@@ -1,3 +1,5 @@
+#The Analysis of Data for Various Celestial Objects 
+
 This a small ongoing project that is meant to showcase the various relationships I was able to find between the variables relating to celestial objects (Ex: Luminosity, Mass, Radius, Rotational Velocity, etc.) I plan on expanding this onto galaxy systems as well as various other celestial objects that I find fascinating. I'll make sure to bring in reliable data sets along with utilizing various different programs to fact check all the work I do!
 
 This will be done on mostly python as that is the language I am trying to learn at the moment, I may expand to things such as MATLAB in the future but I want to focus on the mastery of one particular language first. I will be posting the data sets I am using in case anyone wants to fact check my results or want to critique my coding.
