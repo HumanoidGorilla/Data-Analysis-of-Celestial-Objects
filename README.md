@@ -13,7 +13,7 @@ I will attempt to answer each of these in my project, with the last question bei
 
 These are the questions that I hope I can answer eventually:
 
-|Project|Description|Visualization|Pattern|Relationship|Equation|
+|Project|Description|Visual Data|Pattern|Relationship|Equation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |[Relationship between Star Luminosity and Mass](https://github.com/HumanoidGorilla/Data-Analysis-of-Celestial-Objects/blob/main/Relationship_between_Star_Luminosity_and_Mass.ipynb)| The goal is to find a relationship between luminosity and mass with the hypothesis that the increased mass will increase the amount of fusion reactions occuring, causing an increase in luminosity.| ✓ | ✓ | |
 |Galaxy Mass and Rotational Velocity| The goal is to see if there is a relationship between a galaxies mass and rotational velocity. This is being done due to a discovery I found while researching papers that "super-galaxies" apparently rotate faster than our own.| | | | |
