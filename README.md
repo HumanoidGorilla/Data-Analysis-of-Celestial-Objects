@@ -15,7 +15,9 @@ These are the questions that I hope I can answer eventually:
 
 |Project|Description|Visualization|Pattern|Relationship|Equation|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|[Relationship between Star Luminosity and Mass]|
+|[Relationship between Star Luminosity and Mass](https://github.com/HumanoidGorilla/Data-Analysis-of-Celestial-Objects/blob/main/Relationship_between_Star_Luminosity_and_Mass.ipynb)| The goal is to find a relationship between luminosity and mass with the hypothesis that the increased mass will increase the amount of fusion reactions occuring, causing an increase in luminosity.| ✓ | ✓ | |
+|Galaxy Mass and Rotational Velocity| The goal is to see if there is a relationship between a galaxies mass and rotational velocity. This is being done due to a discovery I found while researching papers that "super-galaxies" apparently rotate faster than our own.| | | | |
+|Differences in mass between dwarf planets and planetoid|This one is meant to be a small investigation between planetoids and dwarf planets to see the true scale of these celestial bodies, this one wont be as thorough or code heavy as the others but I want to create unique visual data with this one| | | |I do not plan on adding an equation for this one|
 
 
 
